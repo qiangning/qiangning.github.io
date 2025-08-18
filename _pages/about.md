@@ -31,4 +31,4 @@ I’m currently a quantitative researcher at [Jump Trading](https://www.jumptrad
 
 I worked at AWS AI Labs, where I managed the launch of [Titan LLM](https://aws.amazon.com/bedrock/titan/) and [Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/); Alexa AI, where I was a tech lead in natural language question understanding; [Allen Institute for AI (AI2)](https://allenai.org/), where I was a research scientist on AllenNLP. 
 
-I got my Ph.D. in CogComp (UIUC --> UPenn) led by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/). Before that, I studied Electronical Engineering and Econ (double major) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China.
+I got my Ph.D. from UIUC / UPenn under the supervision of [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/). Before that, I studied Electronical Engineering and Econ (double major) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China.
