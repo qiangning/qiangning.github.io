@@ -27,11 +27,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m currently a quantitative researcher at Jump Trading. I work in ML, AI, and finance.
+I’m currently a quantitative researcher at [Jump Trading](https://www.jumptrading.com/). I work in ML, AI, and finance.
 
 I worked at AWS AI Labs, where I managed the launch of [Titan LLM](https://aws.amazon.com/bedrock/titan/) and [Bedrock Guardrails](https://aws.amazon.com/bedrock/guardrails/); Alexa AI, where I was a tech lead in natural language question understanding; [Allen Institute for AI (AI2)](https://allenai.org/), where I was a research scientist on AllenNLP. 
 
-I got my Ph.D. in CogComp (UIUC/UPenn) led by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/). I studied Electronical Engineering and Econ (double major) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China.
+I got my Ph.D. in CogComp (UIUC --> UPenn) led by [Prof. Dan Roth](https://www.cis.upenn.edu/~danroth/). Before that, I studied Electronical Engineering and Econ (double major) at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in China.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
