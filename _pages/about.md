@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Researcher at Jump Trading</b>
+subtitle: "<b>Researcher at Jump Trading</b>"
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>Qiang Ning</p><br>
     <p>Chinese: 宁强</p>
     <p><a href="https://www.youtube.com/watch?v=p1OvKE9BSNg&t=8s">how to pronounce Qiang</a></p>
