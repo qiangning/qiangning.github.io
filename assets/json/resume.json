@@ -266,10 +266,48 @@
   ],
   "service": [
     {
+      "name": "Track Chair",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "NAACL Demo track 2022"
+      ]
+    },
+    {
       "name": "Area chair",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "ACL"
+        "ACL 2021-now",
+        "NAACL 2021-now",
+        "EMNLP 2021-now",
+        "ACL Rolling Review 2021-now",
+        "AAAI 2023-now",
+        "NeurIPS 2023-now",
+        "ICLR 2024-now"
+      ]
+    },
+    {
+      "name": "Journal Reviewer",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Transactions of the Association for Computational Linguistics (TACL)",
+        "Journal of Artificial Intelligence Research (JAIR)",
+        "Journal of Natural Language Engineering (JNLE)",
+        "Neurocomputing Journal",
+        "IEEE Transactions on Biomedical Engineering (TBME); not active in this field anymore",
+        "Magnetic Resonance Imaging (MRM); not active in this field anymore"
+      ]
+    },
+    {
+      "name": "Conference Reviewer",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "*ACL",
+        "EMNLP",
+        "AAAI",
+        "COLING",
+        "LREC",
+        "ECIR",
+        "NLPCC"
       ]
     }
   ],
