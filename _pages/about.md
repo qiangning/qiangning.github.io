@@ -13,7 +13,7 @@ profile:
     <p>Chinese: 宁强</p>
     <p><a href="https://www.youtube.com/watch?v=p1OvKE9BSNg&t=8s">how to pronounce Qiang</a></p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
