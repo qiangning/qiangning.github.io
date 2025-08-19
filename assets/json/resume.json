@@ -264,6 +264,15 @@
       ]
     }
   ],
+  "service": [
+    {
+      "name": "Area chair",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "ACL"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Professor John Doe",
