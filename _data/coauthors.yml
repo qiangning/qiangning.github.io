@@ -9,3 +9,31 @@
 "khashabi":
   - firstname: ["Daniel", "D."]
     url: https://engineering.jhu.edu/faculty/daniel-khashabi/
+
+"kordjamshidi":
+  - firstname: ["Parisa", "P."]
+    url: https://www.cse.msu.edu/~kordjams/
+
+"pustejovsky":
+  - firstname: ["James", "J."]
+    url: https://jamespusto.com/
+
+"moens":
+  - firstname: ["Marie-Francine", "M.-F.", "M. F."]
+    url: https://people.cs.kuleuven.be/~sien.moens/
+
+"yin":
+  - firstname: ["Wenpeng", "W."]
+    url: https://www.wenpengyin.org/
+
+"chen":
+  - firstname: ["Muhao", "M."]
+    url: https://muhaochen.github.io/
+
+"chang":
+  - firstname: ["Kai-Wei", "K.-W."]
+    url: https://web.cs.ucla.edu/~kwchang/
+
+"ji":
+  - firstname: ["Heng", "H."]
+    url: https://blender.cs.illinois.edu/hengji.html
