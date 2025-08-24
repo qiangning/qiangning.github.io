@@ -125,3 +125,23 @@ preview={shuaicheng-naacl22-preview.png},
     year = "2022",
     abstract = "Extracting temporal relations (e.g., before, after, and simultaneous) among events is crucial to natural language understanding. One of the key challenges of this problem is that when the events of interest are far away in text, the context in-between often becomes complicated, making it challenging to resolve the temporal relationship between them. This paper thus proposes a new Syntax-guided Graph Transformer network (SGT) to mitigate this issue, by (1) explicitly exploiting the connection between two events based on their dependency parsing trees, and (2) automatically locating temporal cues between two events via a novel syntax-guided attention mechanism. Experiments on two benchmark datasets, MATRES and TB-DENSE, show that our approach significantly outperforms previous state-of-the-art methods on both end-to-end temporal relation extraction and temporal relation classification with up to 7.9{\%} absolute F-score gain; This improvement also proves to be robust on the contrast set of MATRES. We will make all the programs publicly available once the paper is accepted."
 }
+
+@article{ning-etal-2022-meta,
+bibtex_show={true},
+abbr={NLP},
+code={https://github.com/steqe/steqe},
+video={https://www.youtube.com/watch?v=rNl2Jcu0NgA},
+poster={SteQE-ACL22-poster.pdf},
+slides={SteQE-ACL22-talk.pptx},
+preview={SteQE-ACL22-preview.png},
+    title = "A Meta-framework for Spatiotemporal Quantity Extraction from Text",
+    author = "Ning, Qiang  and
+      Zhou, Ben  and
+      Wu, Hao  and
+      Peng, Haoruo  and
+      Fan, Chuchu  and
+      Gardner, Matt",
+    journal = "ACL",
+    year = "2022",
+    abstract = "News events are often associated with quantities (e.g., the number of COVID-19 patients or the number of arrests in a protest), and it is often important to extract their type, time, and location from unstructured text in order to analyze these quantity events. This paper thus formulates the NLP problem of spatiotemporal quantity extraction, and proposes the first meta-framework for solving it. This meta-framework contains a formalism that decomposes the problem into several information extraction tasks, a shareable crowdsourcing pipeline, and transformer-based baseline models. We demonstrate the meta-framework in three domains{---}the COVID-19 pandemic, Black Lives Matter protests, and 2020 California wildfires{---}to show that the formalism is general and extensible, the crowdsourcing pipeline facilitates fast and high-quality data annotation, and the baseline system can handle spatiotemporal quantity extraction well enough to be practically useful. We release all resources for future research on this topic at \url{https://github.com/steqe}."
+}
