@@ -165,3 +165,22 @@ preview={ester-emnlp21-preview.png},
     year = "2021",
     abstract = "Understanding how events are semantically related to each other is the essence of reading comprehension. Recent event-centric reading comprehension datasets focus mostly on event arguments or temporal relations. While these tasks partially evaluate machines' ability of narrative understanding, human-like reading comprehension requires the capability to process event-based information beyond arguments and temporal reasoning. For example, to understand causality between events, we need to infer motivation or purpose; to establish event hierarchy, we need to understand the composition of events. To facilitate these tasks, we introduce **ESTER**, a comprehensive machine reading comprehension (MRC) dataset for Event Semantic Relation Reasoning. The dataset leverages natural language queries to reason about the five most common event semantic relations, provides more than 6K questions, and captures 10.1K event relation pairs. Experimental results show that the current SOTA systems achieve 22.1{\%}, 63.3{\%} and 83.5{\%} for token-based exact-match (**EM**), **F1** and event-based **HIT@1** scores, which are all significantly below human performances (36.0{\%}, 79.6{\%}, 100{\%} respectively), highlighting our dataset as a challenging benchmark."
 }
+
+@article{he-etal-2021-foreseeing,
+bibtex_show={true},
+arxiv={2006.05500},
+preview={pabi-emnlp21-preview.png},
+poster={HZNR21_presentation.pdf},
+slides={HZNR21-EMNLP21-slides.pptx},
+code={https://github.com/CogComp/PABI},
+video={https://aclanthology.org/2021.emnlp-main.134.mp4},
+abbr={Theory},
+    title = "Foreseeing the Benefits of Incidental Supervision",
+    author = "He, Hangfeng  and
+      Zhang, Mingyuan  and
+      Ning, Qiang  and
+      Roth, Dan",
+    journal = "EMNLP",
+    year = "2021",
+    abstract = "Real-world applications often require improved models by leveraging *a range of cheap incidental supervision signals*. These could include partial labels, noisy labels, knowledge-based constraints, and cross-domain or cross-task annotations {--} all having statistical associations with gold annotations but not exactly the same. However, we currently lack a principled way to measure the benefits of these signals to a given target task, and the common practice of evaluating these benefits is through exhaustive experiments with various models and hyperparameters. This paper studies whether we can, *in a single framework, quantify the benefits of various types of incidental signals for a given target task without going through combinatorial experiments*. We propose a unified PAC-Bayesian motivated informativeness measure, PABI, that characterizes the uncertainty reduction provided by incidental supervision signals. We demonstrate PABI{'}s effectiveness by quantifying the value added by various types of incidental signals to sequence tagging tasks. Experiments on named entity recognition (NER) and question answering (QA) show that PABI{'}s predictions correlate well with learning performance, providing a promising way to determine, ahead of learning, which supervision signals would be beneficial."
+}
