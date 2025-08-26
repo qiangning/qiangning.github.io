@@ -240,3 +240,23 @@ preview={wen-naacl21-preview.png},
     year = "2021",
     abstract = "Grounding events into a precise timeline is important for natural language understanding but has received limited attention in recent work. This problem is challenging due to the inherent ambiguity of language and the requirement for information propagation over inter-related events. This paper first formulates this problem based on a 4-tuple temporal representation used in entity slot filling, which allows us to represent fuzzy time spans more conveniently. We then propose a graph attention network-based approach to propagate temporal information over document-level event graphs constructed by shared entity arguments and temporal relations. To better evaluate our approach, we present a challenging new benchmark on the ACE2005 corpus, where more than 78{\%} of events do not have time spans mentioned explicitly in their local contexts. The proposed approach yields an absolute gain of 7.0{\%} in match rate over contextualized embedding approaches, and 16.3{\%} higher match rate compared to sentence-level manual event time argument annotation."
 }
+
+@article{ning-etal-2020-torque,
+bibtex_show={true},
+abbr={NLP},
+arxiv={2005.00242},
+code={https://github.com/qiangning/TORQUE-dataset},
+slides={TORQUE-EMNLP20-talk.pptx},
+preview={torque-cover.png},
+video={https://slideslive.com/38938807/torque-a-reading-comprehension-dataset-of-temporal-ordering-questions},
+    title = "{TORQUE}: A Reading Comprehension Dataset of Temporal Ordering Questions",
+    author = "Ning, Qiang  and
+      Wu, Hao  and
+      Han, Rujun  and
+      Peng, Nanyun  and
+      Gardner, Matt  and
+      Roth, Dan",
+    journal = "EMNLP",
+    year = "2020",
+    abstract = "A critical part of reading is being able to understand the temporal relationships between events described in a passage of text, even when those relationships are not explicitly stated. However, current machine reading comprehension benchmarks have practically no questions that test temporal phenomena, so systems trained on these benchmarks have no capacity to answer questions such as ``what happened before/after [some event]?'' We introduce TORQUE, a new English reading comprehension benchmark built on 3.2k news snippets with 21k human-generated questions querying temporal relationships. Results show that RoBERTa-large achieves an exact-match score of 51{\%} on the test set of TORQUE, about 30{\%} behind human performance."
+}
