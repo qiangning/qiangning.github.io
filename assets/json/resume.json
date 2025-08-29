@@ -309,6 +309,14 @@
         "ECIR",
         "NLPCC"
       ]
+    },
+    {
+      "name": "Teaching Assistant",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Machine Learning (CS446), Spring 2017",
+        "Introduction to Computing (ECE120), Fall 2016"
+      ]
     }
   ],
   "references": [
